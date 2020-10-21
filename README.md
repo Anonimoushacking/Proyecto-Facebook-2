@@ -1,3 +1,3 @@
 # Proyecto-Facebook-2
 
-Recuerda descargar ambas partes :)
+Despues de descargar todos estos archivos ve a Proyecto-Facebook-3 y sigue los pasos
